@@ -1,1 +1,3 @@
-# Bellabeat Project
+Bellabeat Project
+==========
+This is a data analysis project for Bellabeat, a women's health tech company. The project utilizes Python, SQL, and Tableau to analyze user smart device data, aiming to uncover insights for optimizing Bellabeat's marketing strategy. It encompasses data preparation in PostgreSQL, thorough data cleaning, and detailed analysis, with the goal of providing actionable recommendations to enhance Bellabeat's engagement with its target audience and improve its digital marketing efforts.
